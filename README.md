@@ -67,5 +67,5 @@ Portions of text derived from the [YYJ Tech Code of Conduct][2]. ❤️ to the Y
 
 _Revision 1.0, adopted on September 9, 2018._
 
-[3]: https://choosealicense.com/licenses/mit/
-[4]: https://github.com/yyjtech/code-of-conduct
+[1]: https://choosealicense.com/licenses/mit/
+[2]: https://github.com/yyjtech/code-of-conduct
